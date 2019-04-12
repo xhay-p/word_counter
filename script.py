@@ -1,3 +1,5 @@
+__author__ = "Akshay Parakh
+
 import sys
 
 filename = sys.argv[1]
